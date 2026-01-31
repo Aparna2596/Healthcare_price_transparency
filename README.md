@@ -1,3 +1,23 @@
+## Healthcare Price Transparency Analytics (Snowflake)
+
+This repository contains an academic group project completed as part of the MS in Business Analytics program at UT Dallas.
+
+Due to Snowflake subscription constraints, the project was implemented under a single Snowflake account.  
+This repository represents the complete project, with contributions from multiple team members.
+
+### My Contributions
+- Designed the data model for hospital price transparency datasets
+- Performed data cleaning and transformation using Python, SQL in Snowflake
+- Built fact and dimension tables to support analytical queries
+- Wrote optimized SQL queries for cost comparison and analysis
+- Supported visualization and analysis
+
+### Team Contributions
+- Data ingestion and staging
+- Support in data collection, cleaning and transformation
+- Visualization and dashboard development
+- Final presentation and documentation
+
 # Health-Cost-Navigator
 
 ---
